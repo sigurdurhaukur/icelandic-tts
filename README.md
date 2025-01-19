@@ -9,4 +9,9 @@ if troubles with training,
 
 ```bash
 pip install torch==2.3.1 torchaudio==2.3.1 torchvision==0.18.1 in your venv and see if that solves it for you.
+
+
+# fintuning
+
+finetuning done with the following repo: https://github.com/ylacombe/finetune-hf-vits/tree/main
 ```
